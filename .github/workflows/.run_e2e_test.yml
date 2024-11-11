@@ -32,4 +32,4 @@ jobs:
         working-directory: ./e2e
         env:
           BASE_URL: 'https://fastify-webapp-sample-staging-835c.up.railway.app'
-          HEADLESS: trubbkkVj
+          HEADLESS: true
