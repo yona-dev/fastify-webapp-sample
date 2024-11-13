@@ -1,0 +1,1 @@
+{"41f263a3459f877ad53ffccb8ee809a0":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"1885f0cb845f2190","reportUrl":"https://yona-dev.github.io/fastify-webapp-sample/5//#testresult/1885f0cb845f2190","status":"passed","time":{"start":1731459962955,"stop":1731459965868,"duration":2913}}]}}
