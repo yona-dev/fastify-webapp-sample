@@ -25,7 +25,7 @@ jobs:
         run: bash <(curl -fsSL cli.new)
 
       - name: Link to the environment
-        run: railway environment staging
+        run: railway environment production
         env: 
           RAILWAY_TOKEN: ${{ secrets.RAILWAY_PRODUCTION_TOKEN }}
 
