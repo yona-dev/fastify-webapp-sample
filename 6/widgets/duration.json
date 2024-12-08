@@ -1,0 +1,1 @@
+[{"uid":"354d0cd3510d2bfb","name":"ページが存在しない URL にアクセスするとエラーメッセージと商品一覧のリンクが表示される","time":{"start":1733700734003,"stop":1733700735471,"duration":1468},"status":"passed","severity":"normal"},{"uid":"5a93fe96393ca719","name":"webサイトを開きログインする","time":{"start":1733700735477,"stop":1733700737653,"duration":2176},"status":"passed","severity":"normal"}]

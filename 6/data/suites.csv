@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Dec 08 23:32:14 GMT 2024","Sun Dec 08 23:32:15 GMT 2024","1468","","一般的なエラーのテスト","","","","ページが存在しない URL にアクセスするとエラーメッセージと商品一覧のリンクが表示される",""
+"passed","Sun Dec 08 23:32:15 GMT 2024","Sun Dec 08 23:32:17 GMT 2024","2176","","smoke","","","","webサイトを開きログインする",""
